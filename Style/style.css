@@ -1,0 +1,26 @@
+body{
+    background-color: #005555;
+    color: aliceblue;
+}
+
+.titulo{
+    text-align: center;
+    
+}
+
+.verificar{
+    background-color: #0055;
+    color: aliceblue;
+
+    width: 30vh;
+    height: 5vh;
+    font-size: 3vh;
+    cursor: pointer;
+    transition: .6s ease all;
+}
+
+.verificar:hover{
+    background-color: #003322;
+    color: aquamarine;
+    
+}
